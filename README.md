@@ -8,4 +8,5 @@ Save JSON as 'tasks.json' to the same directory as AsanaScraper.py and run.
 Output will appear as export.xls
 
 ## To do
-Auto-import using Asana API
+* Auto-import using Asana API
+* Pre-wufoo support
